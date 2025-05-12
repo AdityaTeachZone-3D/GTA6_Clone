@@ -1,12 +1,43 @@
-# React + Vite
+# GTA 6 Frontend Clone Project 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GTA 6 Banner](public\localhost_5173_.png)
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to the GTA 6 Frontend Clone project! This is an ambitious attempt to recreate the stunning user interface and frontend elements of the highly anticipated Grand Theft Auto 6 game. Built with modern web technologies and a focus on delivering an immersive user experience.
 
-## Expanding the ESLint configuration
+### Created By: Aditya
+### Guided By: Sheryians Coding School
+![Sheryians Coding School](public\sheryians.png)
+### Harsh Vadna Shrama Sir 
+![Harsh Vandana Sharma](public\harshBhiya.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Features
+
+- Responsive game interface
+- Dynamic weather system visualization
+- Character selection menu
+- Interactive map system
+- Inventory management UI
+- Mission tracking interface
+- Vehicle selection menu
+- Real-time notifications system
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Three.js for 3D elements
+- TailwindCSS
+- Framer Motion
+- Redux Toolkit
+
+## 🎯 Project Goals
+
+1. Create a pixel-perfect recreation of GTA 6's UI elements
+2. Implement smooth animations and transitions
+3. Ensure responsive design across all devices
+4. Optimize performance for seamless user experience
+
+<!-- ## 🏗️ Installation -->
