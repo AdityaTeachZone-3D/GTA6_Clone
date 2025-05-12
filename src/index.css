@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("./pricedown.otf");
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  font-family: "pricedown";
+}
+.image{
+  animation: glowAnimation 2s infinite alternate;
+}
+
+@keyframes glowAnimation {
+  to{
+    filter: drop-shadow(5px 10px 20px rgb(122, 122, 35));
+  }from{
+    filter: drop-shadow(5px 10px 20px rgb(122, 255, 126)
+    );
+  }
+}
